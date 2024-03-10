@@ -50,10 +50,6 @@ Documented the entire process, including data sources, preprocessing steps, mode
 - [matplotlib](https://matplotlib.org/)
 - [seaborn](https://seaborn.pydata.org/)
 
-## Results
-
-Included sample results, such as model evaluation metrics, and a brief summary of the findings.
-
 ## Future Improvements
 
 Outlined potential enhancements or additional steps for further improvement.
