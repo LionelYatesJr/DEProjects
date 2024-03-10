@@ -32,7 +32,4 @@ Design and implement an Extract, Transform, Load (ETL) process for a CSV file. E
 9. **Automation (Optional):**
    Consider automating your ETL process. You can use scheduling tools like cron jobs or tools like Apache Airflow for more advanced workflow management.
 
-10. **Documentation:**
-    Document your project, including the ETL process, data schema, and any challenges you faced. This documentation will be valuable for showcasing your skills to potential employers.
 
-This project will provide you with practical experience in data extraction, transformation, and loading - key skills for a data engineering career. As you become more comfortable with these concepts, you can explore more complex projects and technologies.
