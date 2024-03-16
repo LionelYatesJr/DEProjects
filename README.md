@@ -29,7 +29,4 @@ Design and implement an Extract, Transform, Load (ETL) process for a CSV file. E
 8. **Write a Loading Script:**
    Write a script to load the transformed data into the chosen destination. Ensure that the data is loaded accurately according to your schema.
 
-9. **Automation (Optional):**
-   Consider automating your ETL process. You can use scheduling tools like cron jobs or tools like Apache Airflow for more advanced workflow management.
-
-
+9.
